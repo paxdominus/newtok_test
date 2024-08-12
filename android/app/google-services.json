@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "286716395424",
+    "project_id": "newtok-app",
+    "storage_bucket": "newtok-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286716395424:android:da9986b2812e38c35faec5",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaGHlCwacSX7a14POBtH9FZKxzreq4ckQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286716395424:android:d6f8bc23f96e354a5faec5",
+        "android_client_info": {
+          "package_name": "com.example.newtok_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaGHlCwacSX7a14POBtH9FZKxzreq4ckQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286716395424:android:909a9b0b16db2bc35faec5",
+        "android_client_info": {
+          "package_name": "com.example.newtok_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaGHlCwacSX7a14POBtH9FZKxzreq4ckQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
